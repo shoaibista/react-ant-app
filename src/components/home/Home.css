@@ -1,0 +1,37 @@
+.container {
+    padding: 25px;
+    background-color: #F0F6FB;
+    height: 100vh;
+}
+
+.formContainer {
+    padding: 25px;
+}
+
+.formContainer .formHeader {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+.formTitle {
+    font-size: 14px;
+}
+
+.superCalendarText {
+    margin-right: 10px;
+}
+
+.inputContainer {
+    margin-bottom: 20px
+}
+
+.dateRow {
+    display: flex;
+    flex-direction: column;
+}
+
+.add-exception-text {
+    color: dodgerblue;
+}
