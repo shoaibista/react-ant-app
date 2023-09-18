@@ -35,3 +35,18 @@
 .add-exception-text {
     color: dodgerblue;
 }
+
+.holidayRow {
+    display: flex;
+    justify-content: space-between;
+    padding:0 10px; 
+}
+
+.exceptionRow{
+    margin-bottom: 10px;
+}
+
+.deleteIconDiv {
+    padding-top: 27px;
+    cursor: pointer;
+}
